@@ -4,7 +4,7 @@ public class testMainApp {
 
     @Test
     void testBuild() {
-        System.out.println("Hello World");
+        System.out.println("Hello World, welcome to the test by CI/CD!");
         assert true;
     }
 
