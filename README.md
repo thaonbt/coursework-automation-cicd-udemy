@@ -9,9 +9,8 @@ This repository contains all the hands-on exercises, automation scripts, and cor
 
 To maintain clean project isolation and manage dependencies effectively, this learning track is divided into three specialized repositories:
 
-*   **Core Tutorial (This Repo):** Focuses on basic to advanced Robot Framework syntax, Selenium UI interactions, and API validation.
-*   **[Framework Repo](https://github.com):** Contains the scalable, production-ready custom automation framework built during the course.
-*   **[Automation CI/CD Repo](https://github.com):** Dedicated to DevOps configurations, pipeline setups, and continuous integration environments.
+*   **Framework Repo([coursework-robot-python-framework-udemy](https://github.com/thaonbt/coursework-robot-python-framework-udemy)):** Focuses on basic to advanced Robot Framework syntax, Selenium UI interactions, and API validation. Contains the scalable, production-ready custom automation framework built during the course.
+*   **Automation CI/CD Repo(this repo):** Dedicated to DevOps configurations, pipeline setups, and continuous integration environments.
 
 ---
 
